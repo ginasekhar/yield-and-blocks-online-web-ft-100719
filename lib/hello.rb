@@ -8,6 +8,8 @@ def hello_t(array)
       i = i + 1
     end
     array
+  else
+    
   end
 
 # call your method here!
